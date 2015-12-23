@@ -660,8 +660,12 @@ form {
 
 /* Make Shadow on hover */
 
-.hover-shadow img:hover {
-  box-shadow: 0px 0px 5px #888888;
+.games img:hover {
+  box-shadow: 0px 0px 7px #888888;
+}
+
+.games img {
+  border: 1px solid #505050;
 }
 
 /* GENERAL ELEMENT TYPE STYLES */
