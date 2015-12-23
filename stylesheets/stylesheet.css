@@ -658,6 +658,11 @@ form {
 
 }
 
+/* Make Shadow on hover */
+
+.hover-shadow img:hover {
+  box-shadow: 0px 0px 5px #888888;
+}
 
 /* GENERAL ELEMENT TYPE STYLES */
 
