@@ -454,10 +454,15 @@ a:hover {
 /* Navigation */
 
 .navigation {
+  padding: 0;
   display: block;
   height: 2.5em;
   background: #000;
   text-align: center;
+}
+
+.navigation ul {
+  margin: 0px;
 }
 
 .navigation ul li {
